@@ -1,8 +1,0 @@
-prefix=/home/gaurav/agv_ros/install
-
-Name: agv_low
-Description: Description of agv_low
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/gaurav/agv_ros/install/lib 
-Requires: 

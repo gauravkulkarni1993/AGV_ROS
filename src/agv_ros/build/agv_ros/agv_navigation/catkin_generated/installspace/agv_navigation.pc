@@ -1,8 +1,0 @@
-prefix=/home/gaurav/agv_ros/install
-
-Name: agv_navigation
-Description: Description of agv_navigation
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/gaurav/agv_ros/install/lib 
-Requires: 

@@ -1,8 +1,0 @@
-prefix=/home/gaurav/agv_ros/devel
-
-Name: agv_description
-Description: Description of agv_description
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/gaurav/agv_ros/devel/lib 
-Requires: 
