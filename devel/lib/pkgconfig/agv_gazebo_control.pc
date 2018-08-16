@@ -1,0 +1,8 @@
+prefix=/home/gaurav/agv_ros/devel
+
+Name: agv_gazebo_control
+Description: Description of agv_gazebo_control
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/gaurav/agv_ros/devel/lib -lsteered_wheel_base_controller
+Requires: controller_interface hardware_interface
