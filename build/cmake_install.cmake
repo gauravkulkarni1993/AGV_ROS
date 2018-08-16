@@ -117,10 +117,10 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/gaurav/agv_ros/build/gtest/cmake_install.cmake")
-  include("/home/gaurav/agv_ros/build/agv_ros/agv_description/cmake_install.cmake")
-  include("/home/gaurav/agv_ros/build/agv_ros/agv_navigation/cmake_install.cmake")
-  include("/home/gaurav/agv_ros/build/agv_ros/agv_gazebo_control/cmake_install.cmake")
-  include("/home/gaurav/agv_ros/build/agv_ros/agv_low/cmake_install.cmake")
+  include("/home/gaurav/agv_ros/build/agv_description/cmake_install.cmake")
+  include("/home/gaurav/agv_ros/build/agv_navigation/cmake_install.cmake")
+  include("/home/gaurav/agv_ros/build/agv_gazebo_control/cmake_install.cmake")
+  include("/home/gaurav/agv_ros/build/agv_low/cmake_install.cmake")
 
 endif()
 

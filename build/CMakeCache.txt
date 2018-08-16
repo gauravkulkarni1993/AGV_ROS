@@ -262,28 +262,28 @@ actionlib_DIR:PATH=/opt/ros/kinetic/share/actionlib/cmake
 actionlib_msgs_DIR:PATH=/opt/ros/kinetic/share/actionlib_msgs/cmake
 
 //Value Computed by CMake
-agv_description_BINARY_DIR:STATIC=/home/gaurav/agv_ros/build/agv_ros/agv_description
+agv_description_BINARY_DIR:STATIC=/home/gaurav/agv_ros/build/agv_description
 
 //Value Computed by CMake
-agv_description_SOURCE_DIR:STATIC=/home/gaurav/agv_ros/src/agv_ros/agv_description
+agv_description_SOURCE_DIR:STATIC=/home/gaurav/agv_ros/src/agv_description
 
 //Value Computed by CMake
-agv_gazebo_control_BINARY_DIR:STATIC=/home/gaurav/agv_ros/build/agv_ros/agv_gazebo_control
+agv_gazebo_control_BINARY_DIR:STATIC=/home/gaurav/agv_ros/build/agv_gazebo_control
 
 //Value Computed by CMake
-agv_gazebo_control_SOURCE_DIR:STATIC=/home/gaurav/agv_ros/src/agv_ros/agv_gazebo_control
+agv_gazebo_control_SOURCE_DIR:STATIC=/home/gaurav/agv_ros/src/agv_gazebo_control
 
 //Value Computed by CMake
-agv_low_BINARY_DIR:STATIC=/home/gaurav/agv_ros/build/agv_ros/agv_low
+agv_low_BINARY_DIR:STATIC=/home/gaurav/agv_ros/build/agv_low
 
 //Value Computed by CMake
-agv_low_SOURCE_DIR:STATIC=/home/gaurav/agv_ros/src/agv_ros/agv_low
+agv_low_SOURCE_DIR:STATIC=/home/gaurav/agv_ros/src/agv_low
 
 //Value Computed by CMake
-agv_navigation_BINARY_DIR:STATIC=/home/gaurav/agv_ros/build/agv_ros/agv_navigation
+agv_navigation_BINARY_DIR:STATIC=/home/gaurav/agv_ros/build/agv_navigation
 
 //Value Computed by CMake
-agv_navigation_SOURCE_DIR:STATIC=/home/gaurav/agv_ros/src/agv_ros/agv_navigation
+agv_navigation_SOURCE_DIR:STATIC=/home/gaurav/agv_ros/src/agv_navigation
 
 //The directory containing a CMake configuration file for angles.
 angles_DIR:PATH=/opt/ros/kinetic/share/angles/cmake

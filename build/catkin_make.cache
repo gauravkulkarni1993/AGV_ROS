@@ -1,2 +1,2 @@
-agv_ros/agv_description:agv_ros/agv_gazebo_control:agv_ros/agv_low:agv_ros/agv_navigation
+agv_description:agv_gazebo_control:agv_low:agv_navigation
 -DCATKIN_DEVEL_PREFIX=/home/gaurav/agv_ros/devel -DCMAKE_INSTALL_PREFIX=/home/gaurav/agv_ros/install -G Unix Makefiles
